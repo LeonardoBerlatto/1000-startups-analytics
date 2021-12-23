@@ -8,10 +8,10 @@ The dataset contains information about 1000 startups, the industry where they ac
 ## 📊 Some Charts
 
 ### Startups Founded by Years
-![Startups Founded by Years](plots\startups-by-years.png)
+![Startups Founded by Years](./plots/startups-by-years.png)
 
 ### Top Startups by Growth
-![Top Startups by Growth](plots\top-10-startups-treemap.png)
+![Top Startups by Growth](./plots/top-10-startups-treemap.png)
 
 ### The Final Dashboard
-![The Final Dashboard](plots\dashboard.png)
+![The Final Dashboard](./plots/dashboard.png)
